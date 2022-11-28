@@ -6,9 +6,5 @@
          "employee_salary":320800,
          "employee_age":61,
     }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+  ]
 }
